@@ -3,17 +3,17 @@
   @font-face {
     font-family: 'Inter';
     font-weight: 300;
-    src: url(/assets/fonts/static/Inter-Regular.ttf);
+    src: url(.../assets/fonts/static/Inter-Regular.ttf);
   }
   @font-face {
     font-family: 'Inter';
-    src: url(/assets/fonts/static/Inter-Bold.ttf);
+    src: url(.../assets/fonts/static/Inter-Bold.ttf);
     font-weight: 700;
   }
   @font-face {
     font-family: 'Inter';
     font-weight: 800;
-    src: url(/assets/fonts/static/Inter-ExtraBold.ttf);
+    src: url(.../assets/fonts/static/Inter-ExtraBold.ttf);
   }
 
 /* General-Classes */
